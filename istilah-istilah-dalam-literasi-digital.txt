@@ -1,1 +1,799 @@
+100+ Istilah Literasi Digital dalam Penulisan Buku, Jurnal Ilmiah, dan Publikasi Digital
 
+Pendahuluan
+
+Literasi digital tidak hanya berkaitan dengan kemampuan menggunakan komputer atau internet, tetapi juga mencakup kemampuan mencari informasi, mengevaluasi sumber, mengolah data, menulis, mengutip referensi, serta memublikasikan karya secara bertanggung jawab.
+
+Dalam dunia akademik dan kepenulisan, terdapat banyak istilah yang perlu dipahami oleh penulis buku, dosen, mahasiswa, peneliti, editor, dan pengelola jurnal. Istilah seperti ISBN, ISSN, DOI, sitasi, referensi, plagiarisme, peer review, dan open access sering dijumpai dalam proses penerbitan.
+
+Perkembangan kecerdasan buatan atau Artificial Intelligence (AI) juga memperkenalkan istilah baru yang berkaitan dengan penulisan, pencarian literatur, pengolahan data, dan penyuntingan naskah.
+
+Artikel ini menyajikan kumpulan istilah penting dalam literasi digital yang berhubungan dengan pembuatan buku, penulisan jurnal ilmiah, artikel, pengelolaan referensi, penerbitan digital, dan pemanfaatan AI. Daftar ini dapat digunakan sebagai kamus praktis bagi pemula maupun penulis yang ingin meningkatkan kualitas karya tulisnya.
+
+A. Istilah Dasar Penulisan dan Kepenulisan
+
+1. Literasi Digital
+
+Kemampuan mengakses, memahami, mengevaluasi, menggunakan, dan menghasilkan informasi melalui teknologi digital secara kritis, aman, dan bertanggung jawab.
+
+2. Literasi Informasi
+
+Kemampuan mengenali kebutuhan informasi, menemukan sumber yang relevan, mengevaluasi kredibilitasnya, serta menggunakannya secara tepat.
+
+3. Kepenulisan (Writing)
+
+Kegiatan menyampaikan gagasan, informasi, pengetahuan, atau hasil penelitian dalam bentuk tulisan yang terstruktur.
+
+4. Naskah (Manuscript)
+
+Dokumen tulisan yang disiapkan untuk diterbitkan sebagai buku, artikel, jurnal ilmiah, atau bentuk publikasi lainnya.
+
+5. Penulis (Author)
+
+Orang yang menghasilkan karya tulis dan bertanggung jawab atas kontribusi intelektual dalam karya tersebut.
+
+6. Penulis Pendamping (Co-author)
+
+Penulis yang bekerja bersama penulis lain dalam menghasilkan suatu karya. Pencantuman nama harus mencerminkan kontribusi yang nyata.
+
+7. Editor
+
+Orang yang bertugas memeriksa, menyunting, memperbaiki, atau mengoordinasikan naskah agar sesuai dengan standar penerbitan.
+
+8. Penyuntingan (Editing)
+
+Proses memperbaiki isi, struktur, bahasa, konsistensi, dan kejelasan tulisan sebelum diterbitkan.
+
+9. Penyuntingan Bahasa (Copyediting)
+
+Pemeriksaan tata bahasa, ejaan, tanda baca, konsistensi istilah, dan gaya penulisan.
+
+10. Proofreading
+
+Pemeriksaan akhir untuk menemukan kesalahan ketik, kesalahan tata letak, tanda baca, dan kekeliruan kecil lainnya sebelum publikasi.
+
+11. Paragraf
+
+Kumpulan kalimat yang membahas satu gagasan utama atau satu bagian pemikiran tertentu.
+
+12. Parafrasa (Paraphrasing)
+
+Penyampaian kembali gagasan dari sumber lain menggunakan susunan kalimat sendiri dengan tetap memberikan atribusi kepada sumber aslinya.
+
+13. Kutipan (Quotation)
+
+Penggunaan kata atau kalimat dari sumber lain dalam tulisan. Kutipan langsung harus mengikuti aturan penulisan dan pencantuman sumber yang berlaku.
+
+14. Ringkasan (Summary)
+
+Penyajian inti informasi dari suatu sumber dalam bentuk lebih singkat tanpa menghilangkan gagasan utamanya.
+
+15. Sintesis (Synthesis)
+
+Penggabungan dan perbandingan gagasan dari beberapa sumber untuk membentuk pemahaman, analisis, atau kesimpulan baru.
+
+16. Gaya Penulisan (Writing Style)
+
+Cara menyampaikan gagasan melalui pilihan kata, struktur kalimat, nada, dan pola penyajian tertentu.
+
+17. Outline
+
+Kerangka tulisan yang berisi urutan bab, subbab, atau pokok bahasan sebelum naskah dikembangkan.
+
+18. Draft
+
+Versi awal tulisan yang masih dapat diubah, dikembangkan, atau diperbaiki.
+
+19. Revisi
+
+Proses memperbaiki isi, argumen, struktur, atau penyajian tulisan berdasarkan evaluasi penulis maupun masukan pembaca.
+
+20. Naskah Final
+
+Versi naskah yang telah melalui tahap penulisan, revisi, penyuntingan, dan persetujuan akhir untuk dipublikasikan.
+
+B. Istilah dalam Penulisan Buku
+
+21. Judul Buku
+
+Nama atau identitas utama yang menggambarkan tema dan isi buku.
+
+22. Subjudul
+
+Keterangan tambahan pada judul yang memperjelas ruang lingkup atau fokus pembahasan.
+
+23. Kata Pengantar
+
+Bagian awal buku yang umumnya menjelaskan latar belakang penulisan, tujuan, atau ucapan terima kasih.
+
+24. Prakata
+
+Bagian pembuka yang biasanya ditulis oleh penulis untuk menjelaskan konteks, tujuan, atau proses penyusunan buku. Penggunaannya dapat berbeda menurut kebijakan penerbit.
+
+25. Daftar Isi (Table of Contents)
+
+Daftar bab dan subbab beserta nomor halaman untuk membantu pembaca menemukan bagian tertentu.
+
+26. Bab (Chapter)
+
+Bagian utama buku yang membahas satu tema atau aspek pembahasan tertentu.
+
+27. Subbab (Subchapter/Section)
+
+Bagian yang lebih terperinci di dalam bab untuk mengelompokkan pembahasan berdasarkan topik.
+
+28. Pendahuluan (Introduction)
+
+Bagian yang memperkenalkan topik, latar belakang, tujuan, dan ruang lingkup pembahasan.
+
+29. Epilog
+
+Bagian penutup tambahan yang biasanya memberikan refleksi, pesan akhir, atau gambaran setelah pembahasan utama selesai.
+
+30. Glosarium (Glossary)
+
+Daftar istilah khusus beserta definisinya untuk membantu pembaca memahami terminologi dalam buku.
+
+31. Indeks
+
+Daftar istilah, nama, atau topik yang disusun secara alfabetis dan dilengkapi nomor halaman agar mudah ditemukan.
+
+32. Bibliografi
+
+Daftar sumber bacaan atau bahan rujukan yang relevan dengan suatu karya. Cakupannya dapat lebih luas daripada sumber yang secara langsung dikutip.
+
+33. Daftar Pustaka (References)
+
+Daftar sumber yang dirujuk atau dikutip dalam tulisan, disusun sesuai gaya referensi yang digunakan.
+
+34. Sinopsis
+
+Ringkasan isi buku yang memberikan gambaran umum tentang tema, isi, dan daya tarik buku.
+
+35. Blurb
+
+Teks promosi singkat yang biasanya terdapat pada sampul belakang atau halaman penjualan buku.
+
+36. ISBN (International Standard Book Number)
+
+Nomor identifikasi standar untuk buku atau publikasi berbentuk buku. ISBN digunakan untuk membedakan judul, edisi, atau format publikasi tertentu sesuai ketentuan yang berlaku.
+
+37. E-book (Electronic Book)
+
+Buku dalam format digital yang dapat dibaca menggunakan komputer, tablet, telepon pintar, atau perangkat pembaca elektronik.
+
+38. Book Chapter
+
+Bab buku yang dapat ditulis oleh penulis tertentu, terutama dalam buku yang menghimpun kontribusi dari beberapa penulis.
+
+39. Buku Monograf
+
+Buku yang membahas satu topik secara khusus dan mendalam, umumnya dengan pembahasan yang terfokus.
+
+40. Buku Referensi
+
+Buku yang disusun untuk menjadi sumber rujukan dalam mempelajari atau meneliti suatu bidang pengetahuan.
+
+41. Buku Ajar
+
+Buku yang disusun secara sistematis untuk mendukung proses pembelajaran pada mata pelajaran atau mata kuliah tertentu.
+
+42. Antologi
+
+Kumpulan karya yang dihimpun dalam satu buku, misalnya kumpulan artikel, esai, cerpen, atau puisi.
+
+43. Layout Buku
+
+Pengaturan tata letak teks, gambar, tabel, margin, dan elemen halaman agar buku mudah dibaca dan terlihat konsisten.
+
+44. ISBN Cetak dan ISBN Digital
+
+Identitas ISBN untuk format publikasi yang berbeda. Buku cetak dan e-book dapat memerlukan ISBN terpisah sesuai aturan penomoran yang berlaku.
+
+45. Hak Cipta (Copyright)
+
+Hak hukum yang melekat pada pencipta atas karya yang dilindungi, sesuai peraturan perundang-undangan. Hak cipta berbeda dari ISBN yang berfungsi sebagai pengenal publikasi.
+
+C. Istilah dalam Penulisan Jurnal Ilmiah
+
+46. Jurnal Ilmiah
+
+Terbitan berkala yang memuat artikel ilmiah dalam bidang atau cakupan keilmuan tertentu.
+
+47. Artikel Ilmiah (Scientific Article)
+
+Tulisan yang menyajikan hasil penelitian, kajian pustaka, analisis, atau pengembangan pemikiran ilmiah.
+
+48. Abstrak (Abstract)
+
+Ringkasan singkat yang menggambarkan tujuan, metode, hasil utama, dan kesimpulan suatu artikel ilmiah.
+
+49. Kata Kunci (Keywords)
+
+Istilah utama yang mewakili topik artikel dan membantu proses pencarian serta pengindeksan.
+
+50. Pendahuluan Penelitian
+
+Bagian yang menjelaskan latar belakang masalah, konteks penelitian, tujuan, dan alasan pentingnya penelitian dilakukan.
+
+51. Rumusan Masalah
+
+Pernyataan atau pertanyaan yang mendefinisikan persoalan utama yang hendak dijawab melalui penelitian.
+
+52. Tujuan Penelitian
+
+Pernyataan mengenai hasil atau sasaran yang ingin dicapai dalam penelitian.
+
+53. Tinjauan Pustaka (Literature Review)
+
+Pembahasan kritis terhadap teori dan penelitian terdahulu yang berkaitan dengan topik penelitian.
+
+54. Research Gap
+
+Kesenjangan pengetahuan atau aspek yang belum terjawab secara memadai dalam penelitian terdahulu.
+
+55. Kebaruan Penelitian (Novelty)
+
+Kontribusi baru yang ditawarkan penelitian, misalnya pendekatan, data, temuan, model, atau sudut pandang yang berbeda.
+
+56. Metodologi Penelitian
+
+Penjelasan tentang pendekatan, rancangan, prosedur, teknik pengumpulan data, dan metode analisis yang digunakan.
+
+57. Data Penelitian
+
+Informasi atau hasil pengamatan yang dikumpulkan dan digunakan untuk menjawab pertanyaan penelitian.
+
+58. Hasil Penelitian (Results)
+
+Bagian yang menyajikan temuan penelitian berdasarkan data dan analisis yang dilakukan.
+
+59. Pembahasan (Discussion)
+
+Bagian yang menafsirkan temuan, menghubungkannya dengan teori atau penelitian terdahulu, serta menjelaskan implikasinya.
+
+60. Kesimpulan (Conclusion)
+
+Pernyataan ringkas mengenai jawaban atas tujuan atau pertanyaan penelitian berdasarkan hasil yang diperoleh.
+
+61. Implikasi Penelitian
+
+Penjelasan mengenai arti penting hasil penelitian bagi teori, praktik, kebijakan, atau penelitian berikutnya.
+
+62. Keterbatasan Penelitian (Limitations)
+
+Penjelasan mengenai batasan desain, data, sampel, metode, atau kondisi yang dapat memengaruhi interpretasi hasil.
+
+63. IMRaD
+
+Struktur artikel ilmiah yang terdiri atas Introduction, Methods, Results, dan Discussion. Tidak semua jurnal mewajibkan format ini secara persis.
+
+64. ISSN (International Standard Serial Number)
+
+Nomor identifikasi standar untuk terbitan berseri, seperti jurnal dan majalah. Jurnal cetak dan jurnal elektronik dapat memiliki ISSN berbeda.
+
+65. Volume
+
+Penanda pengelompokan edisi jurnal dalam sistem penerbitan berkala.
+
+66. Nomor Terbitan (Issue)
+
+Nomor edisi dalam suatu volume jurnal.
+
+67. Halaman Artikel
+
+Rentang halaman yang ditempati artikel dalam suatu terbitan, apabila jurnal menggunakan penomoran halaman.
+
+68. Article ID atau eLocator
+
+Nomor atau kode yang digunakan sebagian jurnal sebagai pengenal lokasi artikel, terutama ketika sistem penomoran halaman konvensional tidak digunakan.
+
+69. Manuscript Submission
+
+Proses pengiriman naskah kepada jurnal melalui sistem pengelolaan publikasi.
+
+70. Author Guidelines
+
+Pedoman bagi penulis mengenai format naskah, struktur artikel, sitasi, etika, dan ketentuan pengiriman ke jurnal.
+
+D. Istilah Sitasi, Referensi, dan Identitas Publikasi
+
+71. Sitasi (Citation)
+
+Penyebutan sumber yang digunakan untuk mendukung pernyataan, teori, data, atau argumen dalam tulisan.
+
+72. Sitasi Dalam Teks (In-text Citation)
+
+Pencantuman sumber langsung di dalam isi tulisan, misalnya dengan nama penulis dan tahun terbit.
+
+73. Sitasi Naratif
+
+Sitasi yang menyebutkan nama penulis sebagai bagian dari kalimat, misalnya: Sari (2024) menjelaskan bahwa literasi digital memerlukan kemampuan evaluasi informasi.
+
+74. Sitasi Parentetik
+
+Sitasi yang ditempatkan di dalam tanda kurung, misalnya: Literasi digital mencakup evaluasi informasi (Sari, 2024).
+
+75. Referensi (Reference)
+
+Informasi bibliografis yang mengidentifikasi sumber yang dirujuk, seperti nama penulis, tahun, judul, penerbit, atau DOI.
+
+76. Gaya Sitasi (Citation Style)
+
+Aturan penulisan sitasi dan referensi yang mengatur format, urutan elemen, tanda baca, serta penyajian sumber.
+
+77. APA Style
+
+Gaya penulisan dan referensi yang diterbitkan oleh American Psychological Association. Edisi ketujuh dikenal sebagai APA 7.
+
+78. IEEE Style
+
+Gaya sitasi yang banyak digunakan dalam bidang teknik, komputasi, dan teknologi. Sitasi di dalam teks umumnya menggunakan nomor dalam tanda kurung siku.
+
+79. MLA Style
+
+Gaya penulisan yang sering digunakan dalam kajian bahasa, sastra, dan humaniora.
+
+80. Chicago Style
+
+Gaya penulisan yang menyediakan sistem catatan kaki dan bibliografi serta sistem penulis-tahun.
+
+81. DOI (Digital Object Identifier)
+
+Pengenal digital yang mengidentifikasi suatu objek secara persisten, misalnya artikel jurnal, bab buku, buku digital, atau dataset. DOI membantu pembaca menemukan objek yang terdaftar melalui tautan seperti https://doi.org/10.xxxx/xxxxx.
+
+82. ORCID (Open Researcher and Contributor ID)
+
+Identitas digital unik bagi peneliti dan kontributor akademik untuk membedakan seseorang dari peneliti lain yang memiliki nama serupa.
+
+83. Metadata Publikasi
+
+Informasi terstruktur tentang suatu karya, misalnya judul, nama penulis, abstrak, kata kunci, tanggal publikasi, DOI, dan identitas jurnal.
+
+84. Manajer Referensi (Reference Manager)
+
+Perangkat lunak untuk menyimpan, mengatur, mencari, dan menyisipkan sitasi serta daftar pustaka, misalnya Zotero dan Mendeley.
+
+85. Crossref
+
+Organisasi infrastruktur metadata publikasi ilmiah yang antara lain mendukung registrasi DOI bagi artikel, bab buku, dan konten ilmiah lainnya.
+
+86. Resolusi DOI
+
+Proses ketika tautan DOI mengarahkan pengguna ke halaman informasi objek digital yang terdaftar. Keberhasilan akses terhadap teks lengkap tetap bergantung pada ketersediaan dan hak aksesnya.
+
+87. Bibliographic Database
+
+Basis data yang menyimpan informasi bibliografis publikasi, seperti judul, penulis, tahun, abstrak, dan data sitasi.
+
+88. Daftar Pustaka Otomatis
+
+Daftar referensi yang dibuat oleh aplikasi pengolah kata atau manajer referensi berdasarkan sumber yang telah dimasukkan. Hasilnya tetap perlu diperiksa.
+
+89. Hanging Indent
+
+Format paragraf ketika baris pertama dimulai dari margin kiri, sedangkan baris kedua dan seterusnya menjorok ke dalam. Format ini sering digunakan dalam daftar pustaka.
+
+90. Citation Tracking
+
+Proses menelusuri publikasi yang mengutip atau dikutip oleh suatu karya untuk memahami perkembangan dan hubungan penelitian.
+
+E. Istilah Integritas Akademik dan Etika Publikasi
+
+91. Plagiarisme
+
+Penggunaan kata, gagasan, data, atau karya pihak lain tanpa atribusi yang memadai sehingga menimbulkan kesan bahwa materi tersebut merupakan hasil sendiri.
+
+92. Self-plagiarism
+
+Penggunaan kembali materi dari karya sendiri yang telah dipublikasikan tanpa pengungkapan atau pengutipan yang sesuai dengan ketentuan terkait.
+
+93. Similarity Index
+
+Persentase kemiripan teks yang terdeteksi oleh perangkat lunak pemeriksa. Angka kemiripan tidak otomatis membuktikan plagiarisme karena kutipan sah dan daftar pustaka juga dapat terdeteksi.
+
+94. Parafrase yang Etis
+
+Penyampaian ulang gagasan dengan pemahaman yang benar, struktur kalimat sendiri, dan atribusi kepada sumber asli.
+
+95. Fabrikasi Data
+
+Pembuatan data atau hasil penelitian yang sebenarnya tidak pernah diperoleh melalui proses penelitian.
+
+96. Falsifikasi Data
+
+Manipulasi bahan, proses, atau data penelitian sehingga hasil yang dilaporkan tidak secara akurat mencerminkan penelitian yang dilakukan.
+
+97. Konflik Kepentingan (Conflict of Interest)
+
+Kondisi ketika kepentingan pribadi, profesional, atau finansial dapat memengaruhi atau dipersepsikan memengaruhi objektivitas penelitian maupun publikasi.
+
+98. Kepengarangan (Authorship)
+
+Pengakuan atas kontribusi intelektual seseorang dalam suatu karya ilmiah. Ketentuan kepengarangan mengikuti kebijakan jurnal dan standar etika yang relevan.
+
+99. Etika Publikasi
+
+Prinsip yang mengatur kejujuran, transparansi, tanggung jawab, dan keadilan dalam proses penulisan serta penerbitan karya ilmiah.
+
+100. Retraction
+
+Penarikan resmi artikel yang telah dipublikasikan karena terdapat masalah serius yang memengaruhi keandalan atau integritasnya.
+
+101. Correction atau Erratum
+
+Pemberitahuan koreksi terhadap kesalahan pada publikasi yang perlu diperbaiki secara resmi.
+
+102. Ghostwriting
+
+Penulisan karya oleh seseorang yang tidak dicantumkan sebagai penulis, dalam kondisi yang dapat menimbulkan persoalan transparansi atau kepengarangan, khususnya dalam publikasi akademik.
+
+103. Gift Authorship
+
+Pencantuman nama seseorang sebagai penulis meskipun kontribusinya tidak memenuhi kriteria kepengarangan yang berlaku.
+
+104. Predatory Journal
+
+Jurnal yang mengeksploitasi kebutuhan publikasi penulis dengan praktik penerbitan yang tidak bertanggung jawab, misalnya mengabaikan penelaahan ilmiah yang semestinya atau memberikan informasi menyesatkan tentang kualitas dan layanan penerbitan.
+
+105. Peer Review
+
+Proses penilaian naskah oleh ahli di bidang terkait untuk mengevaluasi kualitas, validitas, relevansi, dan kontribusi ilmiah sebelum keputusan publikasi.
+
+F. Istilah Penerbitan dan Publikasi Digital
+
+106. Open Access (Akses Terbuka)
+
+Model publikasi yang memungkinkan pembaca mengakses karya ilmiah secara daring tanpa biaya akses langsung, dengan ketentuan penggunaan sesuai lisensi yang berlaku.
+
+107. Closed Access
+
+Model akses ketika teks lengkap publikasi dibatasi oleh langganan, pembayaran, atau izin tertentu.
+
+108. Creative Commons License
+
+Kumpulan lisensi yang memungkinkan pencipta menetapkan syarat penggunaan kembali karya, misalnya kewajiban atribusi atau pembatasan penggunaan komersial.
+
+109. Repository Institusi
+
+Repositori digital yang dikelola institusi untuk menyimpan, mengarsipkan, dan menyediakan akses terhadap karya ilmiah atau hasil penelitian sesuai kebijakan akses.
+
+110. Preprint
+
+Naskah ilmiah yang dibagikan sebelum melalui proses penelaahan sejawat formal pada jurnal, apabila proses tersebut memang belum dilakukan.
+
+111. Postprint
+
+Versi naskah setelah melalui penelaahan sejawat, yang bentuk dan status penerbitannya bergantung pada definisi penerbit serta perjanjian publikasi.
+
+112. Version of Record
+
+Versi resmi artikel yang telah diterbitkan oleh jurnal atau penerbit.
+
+113. Online First
+
+Penerbitan artikel secara daring sebelum artikel tersebut dimasukkan ke volume atau nomor jurnal tertentu.
+
+114. OJS (Open Journal Systems)
+
+Perangkat lunak pengelolaan jurnal yang membantu proses pengiriman naskah, penelaahan, penyuntingan, dan penerbitan.
+
+115. Indexing
+
+Proses memasukkan informasi publikasi ke dalam basis data atau layanan pengindeksan agar karya lebih mudah ditemukan.
+
+116. Abstracting
+
+Penyediaan abstrak atau ringkasan publikasi sebagai sarana membantu pembaca mengenali isi dan relevansi suatu karya.
+
+117. DOI Registration
+
+Proses pendaftaran metadata dan pengenal DOI melalui lembaga registrasi yang berwenang atau penyedia layanan terkait.
+
+118. Digital Publishing
+
+Proses produksi dan distribusi karya dalam format digital, misalnya e-book, artikel daring, atau publikasi elektronik.
+
+119. EPUB
+
+Format berkas buku elektronik yang dirancang untuk menyesuaikan tampilan teks dengan perangkat pembaca, sesuai kemampuan dan karakteristik berkasnya.
+
+120. PDF (Portable Document Format)
+
+Format dokumen yang mempertahankan tata letak dan tampilan halaman relatif konsisten di berbagai perangkat.
+
+121. Accessibility
+
+Kemampuan suatu publikasi digital untuk diakses dan digunakan oleh pembaca dengan kebutuhan yang beragam, termasuk pengguna teknologi bantu.
+
+122. Alt Text (Alternative Text)
+
+Teks alternatif yang menjelaskan isi atau fungsi gambar agar informasi visual dapat dipahami melalui teknologi bantu.
+
+123. Digital Archiving
+
+Proses penyimpanan dan pemeliharaan dokumen digital agar tetap dapat ditemukan dan digunakan dalam jangka panjang.
+
+124. Metadata Harvesting
+
+Pengumpulan metadata dari berbagai repositori atau sistem publikasi agar informasi karya dapat dihimpun dan ditelusuri secara terstruktur.
+
+125. Search Engine Optimization (SEO)
+
+Upaya meningkatkan kemudahan suatu halaman web ditemukan melalui mesin pencari dengan memperhatikan relevansi, kualitas konten, struktur, dan aspek teknis.
+
+G. Istilah Literasi Digital untuk Riset dan Penelusuran Referensi
+
+126. Database Akademik
+
+Basis data yang menyediakan informasi publikasi ilmiah, seperti artikel jurnal, prosiding, buku, dan metadata penelitian.
+
+127. Google Scholar
+
+Layanan pencarian literatur ilmiah yang membantu pengguna menemukan artikel, buku, tesis, prosiding, dan informasi sitasi.
+
+128. Scopus
+
+Basis data abstrak dan sitasi yang mengindeks berbagai publikasi ilmiah berdasarkan cakupan dan kebijakan seleksinya.
+
+129. Web of Science
+
+Platform basis data ilmiah yang menyediakan informasi bibliografis dan sitasi untuk publikasi yang tercakup dalam koleksinya.
+
+130. SINTA
+
+Sistem informasi di Indonesia yang menyediakan informasi terkait kinerja penelitian dan publikasi ilmiah, termasuk informasi jurnal dan peneliti.
+
+131. GARUDA
+
+Portal penelusuran publikasi ilmiah Indonesia yang membantu pengguna menemukan artikel dari berbagai sumber publikasi.
+
+132. DOI Lookup
+
+Proses pencarian DOI berdasarkan judul, nama penulis, atau metadata publikasi untuk membantu mengidentifikasi sumber secara tepat.
+
+133. Boolean Operators
+
+Operator seperti AND, OR, dan NOT yang digunakan untuk menyusun strategi pencarian informasi agar hasil lebih terarah.
+
+134. Keyword Search
+
+Pencarian menggunakan kata atau frasa yang relevan dengan topik tertentu.
+
+135. Advanced Search
+
+Fitur pencarian lanjutan yang memungkinkan pengguna mengatur parameter seperti penulis, tahun publikasi, judul, atau jenis dokumen.
+
+136. Citation Chaining
+
+Penelusuran sumber melalui daftar pustaka suatu karya dan publikasi lain yang mengutip karya tersebut.
+
+137. Snowballing
+
+Teknik pencarian literatur secara bertahap dengan memanfaatkan referensi dari artikel relevan dan publikasi yang mengutipnya.
+
+138. Systematic Literature Review (SLR)
+
+Metode tinjauan pustaka yang menggunakan pertanyaan penelitian, strategi pencarian, kriteria seleksi, dan prosedur analisis yang sistematis serta transparan.
+
+139. PRISMA
+
+Pedoman pelaporan yang membantu penulis menjelaskan proses identifikasi, penyaringan, kelayakan, dan pemilihan studi dalam tinjauan sistematis.
+
+140. Research Data Management
+
+Proses pengorganisasian, penyimpanan, dokumentasi, perlindungan, dan pengelolaan data penelitian selama siklus hidup penelitian.
+
+H. Istilah Kecerdasan Buatan (AI) dalam Penulisan Buku dan Jurnal
+
+141. Artificial Intelligence (AI)
+
+Teknologi yang memungkinkan sistem komputer menjalankan tugas yang biasanya memerlukan kemampuan manusia, seperti pengenalan pola, pemrosesan bahasa, dan analisis informasi.
+
+142. Generative AI
+
+Jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, audio, video, atau kode berdasarkan pola yang dipelajari dari data.
+
+143. Large Language Model (LLM)
+
+Model AI yang dilatih untuk memproses dan menghasilkan bahasa. LLM dapat membantu menyusun kerangka, menjelaskan konsep, atau memperbaiki bahasa, tetapi keluarannya perlu diverifikasi.
+
+144. Prompt
+
+Instruksi atau masukan yang diberikan kepada sistem AI untuk memperoleh respons atau hasil tertentu.
+
+145. Prompt Engineering
+
+Proses merancang dan memperbaiki instruksi agar keluaran AI lebih relevan dengan tujuan, konteks, format, dan batasan yang diinginkan.
+
+146. AI-Assisted Writing
+
+Penulisan yang dibantu AI, misalnya untuk mengembangkan kerangka, menyunting bahasa, merangkum bahan, atau mencari alternatif penyajian.
+
+147. AI-Generated Content
+
+Konten yang dihasilkan seluruhnya atau sebagian oleh sistem AI. Penggunaannya dalam karya akademik perlu mengikuti kebijakan jurnal atau penerbit.
+
+148. Hallucination pada AI
+
+Kondisi ketika AI menghasilkan informasi yang keliru, tidak didukung bukti, atau menyajikan detail yang seolah-olah benar.
+
+149. Fact-Checking
+
+Proses memeriksa kebenaran pernyataan menggunakan sumber yang dapat dipercaya, dokumen asli, data, atau bukti yang relevan.
+
+150. AI Citation Verification
+
+Pemeriksaan ulang sitasi, nama penulis, judul artikel, tahun, DOI, dan tautan referensi yang diusulkan oleh AI. Semua elemen perlu diverifikasi pada sumber yang dapat dipercaya.
+
+151. AI Disclosure
+
+Pernyataan transparan mengenai penggunaan AI dalam penulisan atau penelitian, sesuai ketentuan institusi, jurnal, atau penerbit.
+
+152. Human-in-the-Loop
+
+Pendekatan yang melibatkan manusia untuk memeriksa, menilai, memperbaiki, atau menyetujui keluaran AI sebelum digunakan.
+
+153. AI Bias
+
+Kecenderungan sistem AI menghasilkan keluaran yang tidak seimbang atau merugikan kelompok maupun perspektif tertentu akibat data, desain, atau proses penggunaannya.
+
+154. Data Privacy
+
+Perlindungan informasi pribadi agar pengumpulan, penggunaan, penyimpanan, dan pembagiannya dilakukan secara sah dan aman.
+
+155. Reproducibility
+
+Kemampuan untuk mengulang analisis atau proses penelitian berdasarkan metode, data, dan informasi yang memadai. Dalam penggunaan AI, pencatatan model, versi, instruksi, serta proses kerja dapat membantu transparansi.
+
+156. AI Detection
+
+Upaya memperkirakan apakah suatu teks dihasilkan atau dibantu AI menggunakan perangkat atau metode tertentu. Hasil deteksi tidak selalu akurat dan tidak seharusnya menjadi satu-satunya dasar untuk menuduh pelanggaran akademik.
+
+157. Retrieval-Augmented Generation (RAG)
+
+Pendekatan AI yang menggabungkan proses pencarian informasi dari sumber tertentu dengan kemampuan model menghasilkan jawaban berdasarkan informasi yang ditemukan.
+
+158. Semantic Search
+
+Pencarian yang berusaha memahami makna dan konteks pertanyaan, bukan sekadar mencocokkan kata yang sama.
+
+159. Embedding
+
+Representasi numerik dari teks atau data yang digunakan sistem AI untuk menangkap hubungan makna dan membantu pencarian berbasis kemiripan.
+
+160. Human Verification
+
+Pemeriksaan oleh manusia untuk memastikan bahwa isi, data, kutipan, kesimpulan, dan referensi yang dibantu AI akurat serta layak digunakan.
+
+I. Istilah Teknis Microsoft Word dan Pengolahan Naskah
+
+161. Word Processor
+
+Perangkat lunak untuk membuat, mengedit, memformat, dan menyimpan dokumen teks, seperti Microsoft Word dan LibreOffice Writer.
+
+162. Styles
+
+Pengaturan format siap pakai untuk judul, subjudul, dan paragraf. Penggunaan styles membantu menjaga konsistensi format naskah.
+
+163. Heading 1, Heading 2, dan Heading 3
+
+Tingkat struktur judul dalam dokumen. Heading 1 umumnya digunakan untuk judul bagian utama, sedangkan Heading 2 dan Heading 3 untuk tingkat di bawahnya.
+
+164. Page Layout
+
+Pengaturan tampilan halaman, termasuk ukuran kertas, margin, orientasi, dan jarak elemen dokumen.
+
+165. Margin
+
+Jarak antara area teks dan tepi halaman. Ukurannya ditentukan berdasarkan pedoman penerbit atau institusi.
+
+166. Page Break
+
+Fitur untuk memulai halaman baru tanpa harus menekan tombol Enter berulang kali.
+
+167. Section Break
+
+Pemisah bagian dokumen yang memungkinkan pengaturan berbeda pada halaman tertentu, seperti orientasi, header, footer, atau penomoran.
+
+168. Header dan Footer
+
+Area pada bagian atas dan bawah halaman yang dapat digunakan untuk menampilkan judul berjalan, identitas bab, atau nomor halaman.
+
+169. Caption
+
+Keterangan yang menyertai gambar, tabel, atau ilustrasi agar objek tersebut dapat diidentifikasi dan dirujuk dalam teks.
+
+170. Cross-reference
+
+Fitur untuk merujuk secara otomatis ke bagian lain dalam dokumen, seperti tabel, gambar, bab, atau nomor halaman.
+
+171. Automatic Table of Contents
+
+Daftar isi otomatis yang dibentuk berdasarkan struktur heading dalam dokumen.
+
+172. Track Changes
+
+Fitur yang mencatat perubahan dokumen sehingga penulis dan editor dapat meninjau, menerima, atau menolak revisi.
+
+173. Comments
+
+Fitur komentar untuk memberikan catatan, pertanyaan, atau saran pada bagian tertentu dalam dokumen.
+
+174. Template Dokumen
+
+Dokumen dasar yang berisi pengaturan format, styles, dan elemen desain untuk digunakan kembali.
+
+175. Document Versioning
+
+Pengelolaan beberapa versi dokumen agar perubahan naskah dapat dilacak dan versi terbaru dapat diidentifikasi dengan jelas.
+
+J. Istilah SEO dan Publikasi Artikel di Blog
+
+176. SEO (Search Engine Optimization)
+
+Upaya mengoptimalkan halaman web agar lebih mudah ditemukan oleh pengguna melalui mesin pencari.
+
+177. Keyword
+
+Kata atau frasa yang digunakan pembaca untuk mencari informasi di mesin pencari.
+
+178. Search Intent
+
+Tujuan di balik pencarian pengguna, misalnya mencari informasi, membandingkan pilihan, atau menemukan halaman tertentu.
+
+179. Title Tag
+
+Elemen HTML yang menetapkan judul halaman web dan dapat ditampilkan sebagai judul hasil pencarian.
+
+180. Meta Description
+
+Ringkasan singkat halaman web yang dapat digunakan mesin pencari sebagai deskripsi hasil pencarian. Mesin pencari dapat memilih cuplikan lain dari halaman.
+
+181. URL Slug
+
+Bagian alamat halaman yang biasanya menunjukkan topik atau judul konten, misalnya istilah-literasi-digital.
+
+182. Internal Link
+
+Tautan yang menghubungkan satu halaman dengan halaman lain dalam situs web yang sama.
+
+183. External Link
+
+Tautan dari halaman web menuju sumber atau situs lain.
+
+184. Anchor Text
+
+Teks yang dapat diklik pada suatu tautan dan membantu pembaca memahami tujuan tautan tersebut.
+
+185. Structured Data
+
+Data terstruktur yang ditambahkan ke halaman web untuk membantu mesin pencari memahami informasi tertentu, sesuai jenis dan dukungan fitur yang tersedia.
+
+186. Schema Markup
+
+Kosakata atau format penandaan data terstruktur, misalnya menggunakan Schema.org, untuk menjelaskan entitas atau konten pada halaman web.
+
+187. Sitemap XML
+
+Berkas yang membantu mesin pencari menemukan URL penting pada suatu situs web.
+
+188. Canonical URL
+
+URL yang ditetapkan sebagai versi utama ketika terdapat beberapa halaman dengan konten yang sama atau sangat mirip.
+
+189. Evergreen Content
+
+Konten yang tetap relevan dalam jangka panjang, meskipun sesekali perlu diperbarui.
+
+190. Content Update
+
+Proses memperbarui informasi, tautan, contoh, atau penjelasan agar konten tetap akurat dan relevan.
+
+Penutup
+
+Memahami istilah-istilah literasi digital dalam penulisan buku, jurnal ilmiah, dan publikasi digital merupakan bekal penting bagi mahasiswa, dosen, peneliti, penulis, serta pengelola konten. Penguasaan istilah membantu penulis memahami proses penyusunan naskah, memilih sumber yang kredibel, mengutip referensi secara benar, menjaga integritas akademik, dan menerbitkan karya dengan format yang sesuai.
+
+Pemanfaatan AI dapat mempercepat sejumlah proses penulisan, tetapi tidak menggantikan tanggung jawab penulis untuk memeriksa fakta, memverifikasi sumber, menjaga privasi, dan memastikan orisinalitas serta kualitas karya. Setiap penggunaan AI juga perlu mengikuti kebijakan penerbit, jurnal, dan institusi yang bersangkutan.
+
+Dengan menguasai istilah-istilah tersebut, pembaca diharapkan mampu mengembangkan keterampilan literasi digital sekaligus menghasilkan buku, artikel, dan karya ilmiah yang lebih berkualitas, akurat, etis, dan mudah diakses.
